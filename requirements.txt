@@ -1,0 +1,10 @@
+langgraph
+langchain
+langchain-groq
+python-dotenv
+pydantic
+tavily-python
+arxiv
+langgraph-checkpoint-postgres
+psycopg[binary,pool]
+langsmith
